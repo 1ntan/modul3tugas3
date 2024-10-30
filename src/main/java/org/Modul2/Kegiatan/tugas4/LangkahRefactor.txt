@@ -1,0 +1,8 @@
+1. Extract method balok
+2. Extract method tabung
+- Pindah deklarasi scanner ke setiap method
+- Hapus argumen scanner
+3. Extract delegate method tabung
+4. Extract delegate method balok
+5. Rename tinggiTabung menjadi tinggi
+6. Rename tinggiBalok menjadi tinggi

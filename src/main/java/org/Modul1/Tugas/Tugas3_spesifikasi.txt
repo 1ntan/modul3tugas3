@@ -1,0 +1,12 @@
+- Spesifikasi Formal:
+{|
+	jenisTiket=(reguler|terusan);
+	usia>=1;
+	hari=(senin|selasa|rabu|kamis|jumat|sabtu|minggu);
+	nama!="";
+	tanggal!=""
+|} C {|hargaTiket|}
+
+- Spesifikasi Informal:
+parameter = jenisTiket, usia, hari, nama, tanggal
+return = hargaTiket
